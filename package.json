@@ -1,0 +1,19 @@
+{
+  "name": "csv_playaround",
+  "version": "1.0.0",
+  "description": "Small assignment which reads the csv and shows every column of output as new row",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanikash4/csv_playaround.git"
+  },
+  "author": "Kanika Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanikash4/csv_playaround/issues"
+  },
+  "homepage": "https://github.com/kanikash4/csv_playaround#readme"
+}
